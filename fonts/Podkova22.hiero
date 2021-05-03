@@ -1,11 +1,11 @@
 font.name=Podkova
-font.size=15
+font.size=22
 font.bold=false
 font.italic=false
 font.gamma=1.8
 font.mono=false
 
-font2.file=C:\Users\ashley\Pictures\Games\EternalCalendar\fonts\Podkova-VariableFont_wght.ttf
+font2.file=C:\Users\ashley\projects\assets\EternalCalendar\fonts\Podkova-VariableFont_wght.ttf
 font2.use=true
 
 pad.top=1
